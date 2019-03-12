@@ -1,5 +1,7 @@
-[
-  {
+{ 
+  "users" : 
+  [
+   {
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
@@ -59,4 +61,5 @@
     "website": "ola.org",
     "company": ""
   }
-]
+ ]
+}  
